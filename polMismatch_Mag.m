@@ -1,3 +1,5 @@
+% Author: Prabhu Chandhar, Chandhar Research Labs, Chennai, India.
+
 function [z,Pt]= polMismatch_Mag(M,R,tag_identical,tag_isot,delta,E_GS,E_UAV,lambda,N0,B);
 
 for e = 1:1000
